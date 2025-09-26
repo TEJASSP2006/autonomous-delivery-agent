@@ -3,9 +3,10 @@
 Experimental evaluation script for the autonomous delivery agent.
 Runs all algorithms on all test maps and generates comparison results.
 
-Author: Tejas Santosh Paithankar
+Author: TEJAS SANTOSH PAITHANKAR
+REG. NO.: 24BCY10104
+Institution: VIT BHOPAL UNIVERSITY
 Date: September 2025
-Institution: [Your College/University Name]
 """
 
 import os
